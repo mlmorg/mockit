@@ -1,0 +1,23 @@
+{
+  "name": "mockit",
+  "version": "0.1.0",
+  "author": "Matt Morgan <matt@mlmorg.com>",
+  "description": "Simple module dependency mocking",
+  "keywords": [],
+  "homepage": "https://github.com/mlmorg/mockit",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mlmorg/mockit"
+  },
+
+  "main": "./lib/mockit",
+
+  "directories": {
+    "lib": "./lib"
+  },
+
+  "engines": {
+    "node": "*"
+  }
+}
