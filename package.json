@@ -1,6 +1,6 @@
 {
   "name": "mockit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Matt Morgan <matt@mlmorg.com>",
   "description": "Simple module dependency mocking",
   "keywords": [
