@@ -3,7 +3,15 @@
   "version": "0.1.0",
   "author": "Matt Morgan <matt@mlmorg.com>",
   "description": "Simple module dependency mocking",
-  "keywords": [],
+  "keywords": [
+    "unit",
+    "test",
+    "mock",
+    "mocking",
+    "module",
+    "dependency",
+    "injection"
+  ],
   "homepage": "https://github.com/mlmorg/mockit",
 
   "repository": {
@@ -28,5 +36,7 @@
 
   "engines": {
     "node": "*"
-  }
+  },
+
+  "license": "MIT"
 }
