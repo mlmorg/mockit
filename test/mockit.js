@@ -1,3 +1,6 @@
+/*global describe, it, before, after */
+'use strict';
+
 var should = require('should');
 var mockit = require('../lib/mockit');
 
