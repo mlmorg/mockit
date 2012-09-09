@@ -17,6 +17,15 @@
     "lib": "./lib"
   },
 
+  "devDependencies": {
+    "mocha": "1.4.2",
+    "should": "1.1.0"
+  },
+
+  "scripts": {
+    "test": "mocha -r should -R spec"
+  },
+
   "engines": {
     "node": "*"
   }
